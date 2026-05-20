@@ -1,1 +1,0 @@
-<?php header('Location: ../access_denied.php'); exit; ?>
